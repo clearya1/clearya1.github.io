@@ -85,9 +85,9 @@ author:
   bio              : "PhD Student in Applied Maths"
   location         : "Edinburgh"
   employer         :
-  pubmed           : "https://scholar.google.com/citations?user=SOG2pGQAAAAJ&hl=en"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "andrew.cleary<at>ed.ac.uk"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=SOG2pGQAAAAJ&hl=en"
+  email            : "andrew.cleary@ed.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/clearya1"
+  github           : "clearya1"
   google_plus      :
   keybase          :
   instagram        :
