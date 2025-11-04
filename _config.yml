@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrew Cleary"
 title_separator          : "-"
 name                     : &name "Andrew Cleary"
-description              : &description "PhD Student in Applied Maths"
+description              : &description "Postdoctoral Fellow"
 url                      : https://clearya1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clearya1/clearya1.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andrew Cleary"
   avatar           : "profile.png"
-  bio              : "PhD Student in Applied Maths"
-  location         : "Edinburgh"
+  bio              : "Postdoctoral Fellow"
+  location         : "Baltimore, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=SOG2pGQAAAAJ&hl=en"
-  email            : "andrew.cleary@ed.ac.uk"
+  email            : "acleary7@jh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
